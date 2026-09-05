@@ -1,8 +1,8 @@
 {  
   "name": "RCAA-CDM",
   "id": "6da9d3a9-3c3a-4efd-a2ab-5d0bd47292b0",
-  "updateUrl": "https://raw.githubusercontent.com/GabrielChang906/vatroc-vatis/main/vATIS_Profile_RCAA.json",
-  "updateSerial": 2026090501,
+  "updateUrl": "https://raw.githubusercontent.com/GabrielChang906/vatroc-vatis/refs/heads/main/vATIS-Profile_RCAA.json",
+  "updateSerial": 2026090502,
   "stations": [
     {
       "id": "1d162dd6-599e-4e76-ad6f-769027d8a568",
